@@ -24,7 +24,6 @@ Kumo is a modern, well-designed website that showcases advanced CSS techniques a
 ## ✨ **Key Features**  
 
 - **Fully Responsive Design** – Adapts seamlessly to all screen sizes.  
-- **Mega Menu Navigation** – Structured dropdown for intuitive browsing.  
 - **Smooth Animations** – Enhances user experience with transitions.  
 - **Hover Effects & Interactions** – Engaging UI elements.  
 - **Optimized CSS Structure** – Well-structured and reusable styles.  
@@ -34,7 +33,7 @@ Kumo is a modern, well-designed website that showcases advanced CSS techniques a
 ## 📷 **Preview**  
 
 ### **Homepage**  
-![Homepage](https://i.ibb.co/your-image.png)
+![Homepage](https://i.ibb.co/dwHCS6V5/111.png)
 
 ---
 
