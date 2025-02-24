@@ -1,39 +1,40 @@
 # Kumo
 
-![Preview](image.png)
+![Preview](./image.png)
 
-Kumo is a modern and stylish e-commerce website designed to offer a seamless shopping experience with a clean and minimalistic UI.
+Kumo is a modern e-commerce website that provides a seamless shopping experience with a stylish and user-friendly interface.
 
 ## 🚀 Live Demo
-[Check it out here](https://kumo-asaad.netlify.app/)
+Check out the live version here: [Kumo Live](https://kumo-asaad.netlify.app/)
 
-## 📂 Repository
-[GitHub Repo](https://github.com/asaadmansour/Kumo)
-
-## 🌟 Features
-- 🛒 **Product Listing:** A visually appealing product grid with rating, pricing, and quick action buttons.
-- 🔎 **Search & Filters:** Easily find products with an intuitive search and filtering system.
-- 🏷️ **Dynamic Badges:** Labels like "Sale", "New", and "Hot" for product categorization.
-- 💖 **Wishlist Support:** Users can add favorite products to a wishlist.
-- 📱 **Fully Responsive:** Optimized for desktop, tablet, and mobile devices.
-- 🔄 **Smooth Animations:** Modern and sleek hover effects for an enhanced user experience.
+## 📂 Features
+- Fully responsive e-commerce layout
+- Interactive product cards with wishlist & cart functionality
+- Smooth animations and transitions
+- Login & sign-up modal handling
+- Filtering and sorting options for products
+- Interactive product rating system
 
 ## 🛠️ Technologies Used
-- **HTML5 & CSS3** - For structuring and styling.
-- **JavaScript (ES6)** - Enhancing interactivity and functionality.
-- **Font Awesome** - Icons for a sleek UI.
-- **Netlify** - Deployment and hosting.
+- **HTML5** - Markup structure
+- **CSS3 & SCSS** - Styling and layout design
+- **JavaScript (ES6+)** - Dynamic functionality
+- **Leaflet.js** - Map integration
+- **Netlify** - Deployment
 
-## 📌 How to Run the Project
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/asaadmansour/Kumo.git
-   ```
-2. Open the project folder:
-   ```sh
-   cd Kumo
-   ```
-3. Open `index.html` in your browser.
+## 📸 Screenshots
+![Homepage Preview](./image.png)
 
-## 📧 Contact
-For any inquiries or contributions, feel free to reach out!
+## 📜 Installation
+```sh
+git clone https://github.com/asaadmansour/Kumo.git
+cd Kumo
+npm install
+npm start
+```
+
+## 📌 Contributing
+Feel free to submit issues and pull requests to improve the project.
+
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
