@@ -1,64 +1,39 @@
-# **Kumo**  
+# Kumo
 
-🌐 **Live Demo:** [Kumo Website](https://kumo-asaad.netlify.app/)  
-📂 **Repository:** [GitHub Repo](https://github.com/asaadmansour/Kumo)  
+![Preview](image.png)
 
----
+Kumo is a modern and stylish e-commerce website designed to offer a seamless shopping experience with a clean and minimalistic UI.
 
-## 📌 **Overview**  
+## 🚀 Live Demo
+[Check it out here](https://kumo-asaad.netlify.app/)
 
-Kumo is a modern, well-designed website that showcases advanced CSS techniques and a responsive layout. It features a mega menu, smooth animations, and a clean UI/UX, making it an excellent demonstration of front-end development skills.  
+## 📂 Repository
+[GitHub Repo](https://github.com/asaadmansour/Kumo)
 
----
+## 🌟 Features
+- 🛒 **Product Listing:** A visually appealing product grid with rating, pricing, and quick action buttons.
+- 🔎 **Search & Filters:** Easily find products with an intuitive search and filtering system.
+- 🏷️ **Dynamic Badges:** Labels like "Sale", "New", and "Hot" for product categorization.
+- 💖 **Wishlist Support:** Users can add favorite products to a wishlist.
+- 📱 **Fully Responsive:** Optimized for desktop, tablet, and mobile devices.
+- 🔄 **Smooth Animations:** Modern and sleek hover effects for an enhanced user experience.
 
-## 🛠 **Technologies Used**  
+## 🛠️ Technologies Used
+- **HTML5 & CSS3** - For structuring and styling.
+- **JavaScript (ES6)** - Enhancing interactivity and functionality.
+- **Font Awesome** - Icons for a sleek UI.
+- **Netlify** - Deployment and hosting.
 
-- **HTML5** – Semantic and accessible markup structure.  
-- **CSS3** – Advanced styling with grid, flexbox, and animations.  
-- **JavaScript** – For interactivity and dynamic behavior.  
-- **Font Awesome** – Icons for better UI experience.  
-- **Netlify** – Hosting and live preview deployment.  
+## 📌 How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/asaadmansour/Kumo.git
+   ```
+2. Open the project folder:
+   ```sh
+   cd Kumo
+   ```
+3. Open `index.html` in your browser.
 
----
-
-## ✨ **Key Features**  
-
-- **Fully Responsive Design** – Adapts seamlessly to all screen sizes.  
-- **Smooth Animations** – Enhances user experience with transitions.  
-- **Hover Effects & Interactions** – Engaging UI elements.  
-- **Optimized CSS Structure** – Well-structured and reusable styles.  
-
----
-
-## 📷 **Preview**  
-
-### **Homepage**  
-![Homepage](https://kumo-asaad.netlify.app/assets/imgs/bl-1.png)  
-
----
-
-## 🚀 **Installation & Setup**  
-
-1️⃣ **Clone the repository:**  
-```sh
-git clone https://github.com/asaadmansour/Kumo.git
-```  
-
-2️⃣ **Navigate into the project directory:**  
-```sh
-cd Kumo
-```  
-
-3️⃣ **Open the project in a code editor (VS Code recommended).**  
-
-4️⃣ **Run a live server or open `index.html` in a browser.**  
-
----
-
-## 👤 **Author**  
-
-- **Asaad Mansour**  
-- 📧 **[Email](mailto:as89aadmansour@gmail.com)**  
-- 🔦 **[GitHub](https://github.com/asaadmansour)**  
-
----
+## 📧 Contact
+For any inquiries or contributions, feel free to reach out!
